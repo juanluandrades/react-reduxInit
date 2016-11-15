@@ -1,0 +1,20 @@
+{
+  "name": "reactReduxRem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juanluandrades/react-reduxInit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanluandrades/react-reduxInit/issues"
+  },
+  "homepage": "https://github.com/juanluandrades/react-reduxInit"
+}
