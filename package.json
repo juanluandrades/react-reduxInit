@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "server": "babel-node server/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/juanluandrades/react-reduxInit/issues"
   },
-  "homepage": "https://github.com/juanluandrades/react-reduxInit"
+  "homepage": "https://github.com/juanluandrades/react-reduxInit",
+  "devDependencies": {
+    "babel-cli": "^6.18.0"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
